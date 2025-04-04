@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put your session-id here. Must Start with 'Gifted~'",
       "required": true,
-      "value": ""
+      "value": "Gifted~KF4jkRDZ#axV0fMx6-SwkBQyWA6l_RGQhTLJ2WPgRWn7Wbb9xYeY"
     },  
     "MODE": {
       "description": "Set Mode  to 'public' to work in all chats only, 'inbox' to work in pm(inbox) chats only or 'private' to work for you only. Default is 'public'. You can set up this later using .mode",
@@ -19,17 +19,17 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Gifted Tech"
+      "value": "VDEEJAY JOHNS"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 2547xxxxx",
       "required": true,
-      "value": ""
+      "value": "254108988663"
     },
     "ANTI_DELETE": {
       "description": "Put true to Enable Antidelete for All Chats and Status Updates",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "SUDO_NUMBERS": {
       "description": "Put Sudo Numbers separated by comma Here ie 2547xxxx,2557xxxxx,928xxxxx. Sudos have same rights as owner(can command the bot)",
@@ -39,7 +39,7 @@
     "CHAT_BOT": {
       "description": "Put value to 'true' to enablle for all chats or 'inbox' to ebanle in pm(inbox) chats only or 'groups' to enable in groups only else false. You can set up this later using .chatbot",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_READ_STATUS": {
       "description": "Make it 'true' if you want bot to view statuses. You can set up this later using .autoview",
@@ -59,7 +59,7 @@
     "AUTO_REPLY_STATUS": {
       "description": "Make it 'true' if you want the bot to send message after viewing status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "STATUS_REPLY_MSG": {
       "description": "Set your status reply message to be sent after bot views status",
